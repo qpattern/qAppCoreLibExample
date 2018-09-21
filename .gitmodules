@@ -1,0 +1,3 @@
+[submodule "qAppCoreLib"]
+	path = qAppCoreLib
+	url = git@github.com:qpattern/qAppCoreLib.git
