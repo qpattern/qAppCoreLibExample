@@ -1,5 +1,4 @@
 #include <QGuiApplication>
-#include <QQmlApplicationEngine>
 
 #include <control/ApplicationManager.hpp>
 
